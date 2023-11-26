@@ -35,6 +35,6 @@ Check out some of my fun projects on my [personal website](https://lavumi.net).
 #### 🌍 Location:
 - 🏙 Seongnam-si, South Korea
 
-I reside in Seoul, South Korea. Feel free to say hello if you're around! 😊
+I reside in Seongnam-si, South Korea. Feel free to say hello if you're around! 😊
 
 
