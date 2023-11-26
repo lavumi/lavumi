@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Email Badge](https://img.shields.io/badge/@-Mail-white)](mailto:me@lavu.me)
+
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavumi&show_icons=true&theme=dracula&layout=compact&hide_border=true" width="400px">
 
