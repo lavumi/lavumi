@@ -20,12 +20,11 @@ Here are some ideas to get you started:
 
 ### Hello there! 👋
 
-I'm Lavumi, currently taking a break and enjoying some downtime. 😌  
-(I'm taking a break after resigning from my previous position!)
+I'm Lavumi.
 
 #### 💻 Currently diving into:
-- 🚀Go,🦀Rust
-- 🌐Server architecture, 🎨Rendering(openGL, wGPU)
+- 🚀Go, 🌐Server architecture
+- 🦀Rust, 🎨Rendering(openGL, wGPU)
 
 I'm delving deep into these three areas, actively learning and embracing new challenges to fuel my growth.
 
